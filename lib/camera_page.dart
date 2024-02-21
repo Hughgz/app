@@ -1,6 +1,5 @@
 import 'package:camera/camera.dart';
 import 'package:flutter/material.dart';
-import 'package:tflite_flutter/tflite_flutter.dart';
 
 class CameraPage extends StatefulWidget {
   final List<CameraDescription>? cameras;
